@@ -50,7 +50,7 @@ Update the `config.py` file with your credentials:
 
 ```python
 # config.py
-CHAT_ID = -1002003233027  # Replace with your Telegram chat ID
+CHAT_ID = 'your_chat_id'  # Replace with your Telegram chat ID
 TOKENT = 'your-telegram-bot-token'  # Replace with your Telegram bot token
 gptApi = 'your-openai-api-key'  # Replace with your OpenAI API key
 ```
